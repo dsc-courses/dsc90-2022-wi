@@ -1,0 +1,62 @@
+{"0": {
+    "doc": "Home",
+    "title": "Seminar: History of Data Science 📚",
+    "content": "DSC 90, Winter 2022 at UC San Diego . Suraj Rampure he/him . rampure@ucsd.edu . Class: Mondays, 6-8:50PM, Center Hall 218 . Read the syllabus for details on how this course will work. Topics are subject to change, and readings are all TBD. 01 January 3rd: Introduction, Calculus . In the first class session, we’ll set the scene and expectations for the course. We’ll study the historical development of calculus, a field that underpins much of modern data science. In doing so, we’ll re-derive and use several results of early mathematicians to solve problems of our own. 02 January 10th: Aggregation, Least Squares, and Planetary Motion . We’ve come to take for granted the idea of an “average”, but it was not always so prevalent. | Radical insights from The Seven Pillars of Statistical Wisdom | Stigler, Stephen M. The Seven Pillars of Statistical Wisdom. (Chapter 1) | Stigler, Stephen M. Gauss and the Invention of Least Squares | . 03 January 17th: No Class (Martin Luther King Jr. Day) . 04 January 24th: Randomness and Probability Theory . 05 January 31st: Correlation and Prediction . 06 February 7th: Data Visualization and Exploratory Data Analysis . 07 February 14th: Machine Learning . 08 February 21st: No Class (Presidents’ Day) . 09 February 28th: Computing . 10 March 7th: Data Science as a Field . ",
+    "url": "http://localhost:4000/#seminar-history-of-data-science-",
+    "relUrl": "/#seminar-history-of-data-science-"
+  },"1": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"2": {
+    "doc": "Syllabus",
+    "title": "Syllabus 📖",
+    "content": " ",
+    "url": "http://localhost:4000/syllabus/#syllabus-",
+    "relUrl": "/syllabus/#syllabus-"
+  },"3": {
+    "doc": "Syllabus",
+    "title": "Table of contents",
+    "content": ". | Motivation | Prerequisites | Class Meetings | Assessments | Acknowledgements | . As you can see, this syllabus page is very much in progress. We will add information here closer to the start of the quarter. If you’re interested in taking the course and you have a question that isn’t answered here, feel free to email Suraj. ",
+    "url": "http://localhost:4000/syllabus/#table-of-contents",
+    "relUrl": "/syllabus/#table-of-contents"
+  },"4": {
+    "doc": "Syllabus",
+    "title": "Motivation",
+    "content": "TODO . ",
+    "url": "http://localhost:4000/syllabus/#motivation",
+    "relUrl": "/syllabus/#motivation"
+  },"5": {
+    "doc": "Syllabus",
+    "title": "Prerequisites",
+    "content": "We will only assume that you have taken or are taking DSC 10, and have taken at least one quarter of calculus before. Aside from that, we will make no assumptions regarding your background, and will introduce technical concepts at an introductory level when necessary. ",
+    "url": "http://localhost:4000/syllabus/#prerequisites",
+    "relUrl": "/syllabus/#prerequisites"
+  },"6": {
+    "doc": "Syllabus",
+    "title": "Class Meetings",
+    "content": "This course will meet once a week. The official schedule states that this course is from 6-8:50PM on Mondays, however we don’t anticipate using the full timeslot each week. Instead, we will use the first 1.5-2 hours to discuss the relevant material, and use the remaining time as an open discussion/office hours period. ",
+    "url": "http://localhost:4000/syllabus/#class-meetings",
+    "relUrl": "/syllabus/#class-meetings"
+  },"7": {
+    "doc": "Syllabus",
+    "title": "Assessments",
+    "content": "TODO: participation, weekly reflections + problem sets. ",
+    "url": "http://localhost:4000/syllabus/#assessments",
+    "relUrl": "/syllabus/#assessments"
+  },"8": {
+    "doc": "Syllabus",
+    "title": "Acknowledgements",
+    "content": "Many readings and topics are borrowed from Rohan Alexander’s History of Statistics and Data Sciences course at the University of Toronto. ",
+    "url": "http://localhost:4000/syllabus/#acknowledgements",
+    "relUrl": "/syllabus/#acknowledgements"
+  },"9": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "http://localhost:4000/syllabus/",
+    "relUrl": "/syllabus/"
+  }
+}
