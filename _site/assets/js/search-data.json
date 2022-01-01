@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Home",
     "title": "Seminar: History of Data Science 📚",
-    "content": "DSC 90, Winter 2022 at UC San Diego . Suraj Rampure he/him . rampure@ucsd.edu . Class: Mondays, 6-8:50PM, Center Hall 218 . Read the syllabus for details on how this course will work. Topics are subject to change, and readings are all TBD. 1 January 3rd: Introduction, Calculus . In the first class session, we’ll set the scene and expectations for the course. We’ll study the historical development of calculus, a field that underpins much of modern data science. In doing so, we’ll re-derive and use several results of early mathematicians to solve problems of our own. 2 January 10th: Aggregation, Least Squares, and Planetary Motion . We’ve come to take for granted the idea of an “average”, but it was not always so prevalent. | Radical insights from The Seven Pillars of Statistical Wisdom | Stigler, Stephen M. The Seven Pillars of Statistical Wisdom. (Chapter 1) | Stigler, Stephen M. Gauss and the Invention of Least Squares | . 3 January 17th: No Class (Martin Luther King Jr. Day) . 4 January 24th: Randomness and Probability Theory . 5 January 31st: Correlation and Prediction . 6 February 7th: Data Visualization and Exploratory Data Analysis . 7 February 14th: Machine Learning . 8 February 21st: No Class (Presidents’ Day) . 9 February 28th: Computing . 10 March 7th: Data Science as a Field . ",
+    "content": "DSC 90, Winter 2022 at UC San Diego . Suraj Rampure he/him . rampure@ucsd.edu . Class: Mondays, 6-7:30PM (office hours until 8:50PM) . Class Zoom Link . Click on a link below to go to the page for that week. | # | Date | Topics | Assignment | . | 1 | 1/3 | Introduction, Calculus | HW 1 (due 1/9) | . | 2 | 1/10 | Aggregation and Least Squares |   | . |   | 1/17 | N/A (MLK Day) |   | . | 3 | 1/24 | Regression and Correlation |   | . | 4 | 1/31 | Randomess and Probability |   | . | 5 | 2/7 | Visualization and EDA |   | . | 6 | 2/14 | Computation |   | . |   | 2/21 | N/A (Presidents’ Day) |   | . | 7 | 2/28 | Machine Learning |   | . | 8 | 3/7 | Data Science as a field |   | . ",
     "url": "http://localhost:4000/#seminar-history-of-data-science-",
     "relUrl": "/#seminar-history-of-data-science-"
   },"1": {
@@ -11,48 +11,78 @@
     "url": "http://localhost:4000/",
     "relUrl": "/"
   },"2": {
+    "doc": "Lecture 1",
+    "title": "Lecture 1 – Introduction, Calculus",
+    "content": "Welcome to the first lecture of DSC 90 this quarter! Each week of DSC 90 will have a webpage, like this one, that contains links to lecture slides, recordings, and required readings, and also contains that week’s homework assignment. Note: this page is still under construction. Check back after class on Monday for a finalized version. ",
+    "url": "http://localhost:4000/resources/lectures/lec01/#lecture-1--introduction-calculus",
+    "relUrl": "/resources/lectures/lec01/#lecture-1--introduction-calculus"
+  },"3": {
+    "doc": "Lecture 1",
+    "title": "Lecture (January 3rd) 👨‍🏫",
+    "content": ". | slides (after lecture) | recording (after lecture) | . ",
+    "url": "http://localhost:4000/resources/lectures/lec01/#lecture-january-3rd-",
+    "relUrl": "/resources/lectures/lec01/#lecture-january-3rd-"
+  },"4": {
+    "doc": "Lecture 1",
+    "title": "Readings 📖",
+    "content": ". | Donoho, “50 years of Data Science”, pages 745-748 | Neumann, “History of Pi”, Ch. 1 | The History of Calculus - A Short Documentary | A history of the calculus | How to Calculate Pi, Archimedes’ Method | . ",
+    "url": "http://localhost:4000/resources/lectures/lec01/#readings-",
+    "relUrl": "/resources/lectures/lec01/#readings-"
+  },"5": {
+    "doc": "Lecture 1",
+    "title": "Homework 1 (due Sunday, January 10th at 11:59PM) 📝",
+    "content": "Welcome to your first DSC 90 homework! Homeworks in DSC 90 are designed to have you engage with the week’s content. They will rely on you having completed the readings. Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. Questions to come . ",
+    "url": "http://localhost:4000/resources/lectures/lec01/#homework-1-due-sunday-january-10th-at-1159pm-",
+    "relUrl": "/resources/lectures/lec01/#homework-1-due-sunday-january-10th-at-1159pm-"
+  },"6": {
+    "doc": "Lecture 1",
+    "title": "Lecture 1",
+    "content": " ",
+    "url": "http://localhost:4000/resources/lectures/lec01/",
+    "relUrl": "/resources/lectures/lec01/"
+  },"7": {
     "doc": "Syllabus",
     "title": "Syllabus 📖",
     "content": " ",
     "url": "http://localhost:4000/syllabus/#syllabus-",
     "relUrl": "/syllabus/#syllabus-"
-  },"3": {
-    "doc": "Syllabus",
-    "title": "Table of contents",
-    "content": ". | Motivation | Prerequisites | Class Meetings | Assessments | Acknowledgements | . As you can see, this syllabus page is very much in progress. We will add information here closer to the start of the quarter. If you’re interested in taking the course and you have a question that isn’t answered here, feel free to email Suraj. ",
-    "url": "http://localhost:4000/syllabus/#table-of-contents",
-    "relUrl": "/syllabus/#table-of-contents"
-  },"4": {
-    "doc": "Syllabus",
-    "title": "Motivation",
-    "content": "TODO . ",
-    "url": "http://localhost:4000/syllabus/#motivation",
-    "relUrl": "/syllabus/#motivation"
-  },"5": {
-    "doc": "Syllabus",
-    "title": "Prerequisites",
-    "content": "We will only assume that you have taken or are taking DSC 10, and have taken at least one quarter of calculus before. Aside from that, we will make no assumptions regarding your background, and will introduce technical concepts at an introductory level when necessary. ",
-    "url": "http://localhost:4000/syllabus/#prerequisites",
-    "relUrl": "/syllabus/#prerequisites"
-  },"6": {
-    "doc": "Syllabus",
-    "title": "Class Meetings",
-    "content": "This course will meet once a week. The official schedule states that this course is from 6-8:50PM on Mondays, however we don’t anticipate using the full timeslot each week. Instead, we will use the first 1.5-2 hours to discuss the relevant material, and use the remaining time as an open discussion/office hours period. ",
-    "url": "http://localhost:4000/syllabus/#class-meetings",
-    "relUrl": "/syllabus/#class-meetings"
-  },"7": {
-    "doc": "Syllabus",
-    "title": "Assessments",
-    "content": "TODO: participation, weekly reflections + problem sets. ",
-    "url": "http://localhost:4000/syllabus/#assessments",
-    "relUrl": "/syllabus/#assessments"
   },"8": {
     "doc": "Syllabus",
-    "title": "Acknowledgements",
-    "content": "Many readings and topics are borrowed from Rohan Alexander’s History of Statistics and Data Sciences course at the University of Toronto. ",
-    "url": "http://localhost:4000/syllabus/#acknowledgements",
-    "relUrl": "/syllabus/#acknowledgements"
+    "title": "Table of contents",
+    "content": ". | Course Description 🍎 | Logistics 👨‍🏫 . | Class Meetings | Readings | Homeworks | . | Technology 💻 | Grading 🧪 | Acknowledgements 🙏🏼 | . ",
+    "url": "http://localhost:4000/syllabus/#table-of-contents",
+    "relUrl": "/syllabus/#table-of-contents"
   },"9": {
+    "doc": "Syllabus",
+    "title": "Course Description 🍎",
+    "content": "While the terms “data analysis” and “data science” were only coined in the late 1900s, the foundations of data science were laid centuries, even millenia, ago. In this course, students will study the origins of some of the key ideas in the field. Students will learn more about early contributors – from Newton to Galton to Playfair to Lovelace – and their motivations. In doing so, students develop an appreciation for methods that are now ubiquitous in the field of data science. We will only assume that students are taking DSC 10, and are familiar with basic derivatives and integrals (though this is not a firm requirement). Aside from that, we will make no assumptions regarding your background, and will introduce technical concepts at an introductory level when necessary. ",
+    "url": "http://localhost:4000/syllabus/#course-description-",
+    "relUrl": "/syllabus/#course-description-"
+  },"10": {
+    "doc": "Syllabus",
+    "title": "Logistics 👨‍🏫",
+    "content": "Class Meetings . This course will meet once a week on Mondays. The official schedule states that this course is from 6-8:50PM on Mondays, however we will not use the full timeslot for lecture. Instead, we will discuss the material from 6-7:30PM, and use the remaining time for office hours, where students can ask questions about the reading or homework. For at least the first two weeks of the quarter, this course will meet remotely via Zoom (the link can be found on the course homepage). Once campus resumes in-person instruction, class will be held in-person in Center Hall 218 📍. Once the class moves in-person, remote attendance will remain an option. Lectures will always be recorded and posted afterwards. Readings . There is no “textbook” for this course. We will link readings (and videos) from a variety of sources in the webpage for a given lecture. Students are expected to complete all of the readings provided in a given week; much of the insight in this class will come from reading (and subsequently, discussing). Homeworks . Weekly homeworks in this course are designed to facilitate engagement with the material. They will consist of a mix of reading reflection problems and technical problems, and will align closely with the readings. Homeworks can be found at the bottom of the corresponding lecture page, and will typically be due on Sundays at 11:59PM to Gradescope. ",
+    "url": "http://localhost:4000/syllabus/#logistics-",
+    "relUrl": "/syllabus/#logistics-"
+  },"11": {
+    "doc": "Syllabus",
+    "title": "Technology 💻",
+    "content": "In addition to the course website, there are two other sites you’ll need to access regularly; email the instructor if you haven’t been added to them. | Campuswire: for discussion of lecture content and homework problems. | Gradescope: for submitting homeworks. | . We will not be using Canvas at all. ",
+    "url": "http://localhost:4000/syllabus/#technology-",
+    "relUrl": "/syllabus/#technology-"
+  },"12": {
+    "doc": "Syllabus",
+    "title": "Grading 🧪",
+    "content": "This course is offered for 2 units, and is graded P/NP. In order to earn a P, you must: . | Attend and participate in at least 7/8 class sessions. (Let the instructor know in advance if you can’t make a particular class.) | Complete at least 7/8 homework assignments satisfactorily. | . In the event you aren’t able to meet these requirements, there may be a “make-up” assignment, but you should not rely on it. ",
+    "url": "http://localhost:4000/syllabus/#grading-",
+    "relUrl": "/syllabus/#grading-"
+  },"13": {
+    "doc": "Syllabus",
+    "title": "Acknowledgements 🙏🏼",
+    "content": "Many readings and topics are borrowed from Rohan Alexander’s History of Statistics and Data Sciences course at the University of Toronto. ",
+    "url": "http://localhost:4000/syllabus/#acknowledgements-",
+    "relUrl": "/syllabus/#acknowledgements-"
+  },"14": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",

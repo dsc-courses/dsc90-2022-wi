@@ -15,10 +15,25 @@ seo:
 
 {{ site.staffersnobio }}
 
-[Read the syllabus for details on how this course will work.](syllabus){: .btn }
+[Class Zoom Link](https://ucsd.zoom.us/my/rampure){: .btn .btn-blue }
 
-Topics are subject to change, and readings are all TBD.
+Click on a link below to go to the page for that week. 
 
+| # | Date | Topics | Assignment |
+| --- | --- | --- | --- |
+| 1 | 1/3 | **[Introduction, Calculus](../resources/lectures/lec01)**  | HW 1 (due 1/9) |
+| 2 | 1/10 | **Aggregation and Least Squares** | |
+| | 1/17 | N/A (MLK Day) | |
+| 3 | 1/24 | **Regression and Correlation** | |
+| 4 | 1/31 | **Randomess and Probability** | |
+| 5 | 2/7 | **Visualization and EDA** | |
+| 6 | 2/14 | **Computation** | |
+| | 2/21 | N/A (Presidents' Day) | |
+| 7 | 2/28 | **Machine Learning** | |
+| 8 | 3/7 | **Data Science as a field**| |
+
+
+<!-- 
 ### **1**{: .label .label-green } January 3rd: **Introduction, Calculus**
 
 In the first class session, we'll set the scene and expectations for the course. We'll study the historical development of calculus, a field that underpins much of modern data science. In doing so, we'll re-derive and use several results of early mathematicians to solve problems of our own.
@@ -47,4 +62,4 @@ We've come to take for granted the idea of an "average", but it was not always s
 
 ### **10**{: .label .label-green } March 7th: **Data Science as a Field**
 
-
+ -->

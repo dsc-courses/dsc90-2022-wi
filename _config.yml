@@ -26,8 +26,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  # Campuswire:
-  #   - '#'
+  Campuswire:
+    - 'https://campuswire.com/p/GCAB4734F'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/339285'
 footer_content:
 
 # Collections for website data
