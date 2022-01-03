@@ -15,7 +15,7 @@ seo:
 
 {{ site.staffersnobio }}
 
-[Class Zoom Link](https://ucsd.zoom.us/my/rampure){: .btn .btn-blue }
+[Zoom Link](https://ucsd.zoom.us/my/rampure){: .btn .btn-blue }
 
 Click on a link below to go to the page for that week. 
 
