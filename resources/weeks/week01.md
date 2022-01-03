@@ -4,7 +4,7 @@ title: Week 1 – Introduction, Calculus
 nav_exclude: true
 ---
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 # Week 1 – Introduction, Calculus
 
