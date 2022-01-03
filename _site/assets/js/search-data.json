@@ -11,82 +11,82 @@
     "url": "http://localhost:4000/",
     "relUrl": "/"
   },"2": {
-    "doc": "Lecture 1",
-    "title": "Lecture 1 – Introduction, Calculus",
-    "content": "Welcome to the first lecture of DSC 90 this quarter! Each week of DSC 90 will have a webpage, like this one, that contains links to lecture slides, recordings, and required readings, and also contains that week’s homework assignment. Note: this page is still under construction. Check back after class on Monday for a finalized version. ",
-    "url": "http://localhost:4000/resources/lectures/lec01/#lecture-1--introduction-calculus",
-    "relUrl": "/resources/lectures/lec01/#lecture-1--introduction-calculus"
-  },"3": {
-    "doc": "Lecture 1",
-    "title": "Lecture (January 3rd) 👨‍🏫",
-    "content": ". | slides (after lecture) | recording (after lecture) | . ",
-    "url": "http://localhost:4000/resources/lectures/lec01/#lecture-january-3rd-",
-    "relUrl": "/resources/lectures/lec01/#lecture-january-3rd-"
-  },"4": {
-    "doc": "Lecture 1",
-    "title": "Readings 📖",
-    "content": ". | Donoho, “50 years of Data Science”, pages 745-748 | Neumann, “History of Pi”, Ch. 1 | The History of Calculus - A Short Documentary | A history of the calculus | How to Calculate Pi, Archimedes’ Method | . ",
-    "url": "http://localhost:4000/resources/lectures/lec01/#readings-",
-    "relUrl": "/resources/lectures/lec01/#readings-"
-  },"5": {
-    "doc": "Lecture 1",
-    "title": "Homework 1 (due Sunday, January 10th at 11:59PM) 📝",
-    "content": "Welcome to your first DSC 90 homework! Homeworks in DSC 90 are designed to have you engage with the week’s content. They will rely on you having completed the readings. Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. Questions to come . ",
-    "url": "http://localhost:4000/resources/lectures/lec01/#homework-1-due-sunday-january-10th-at-1159pm-",
-    "relUrl": "/resources/lectures/lec01/#homework-1-due-sunday-january-10th-at-1159pm-"
-  },"6": {
-    "doc": "Lecture 1",
-    "title": "Lecture 1",
-    "content": " ",
-    "url": "http://localhost:4000/resources/lectures/lec01/",
-    "relUrl": "/resources/lectures/lec01/"
-  },"7": {
     "doc": "Syllabus",
     "title": "Syllabus 📖",
     "content": " ",
     "url": "http://localhost:4000/syllabus/#syllabus-",
     "relUrl": "/syllabus/#syllabus-"
-  },"8": {
+  },"3": {
     "doc": "Syllabus",
     "title": "Table of contents",
     "content": ". | Course Description 🍎 | Logistics 👨‍🏫 . | Class Meetings | Readings | Homeworks | . | Technology 💻 | Grading 🧪 | Acknowledgements 🙏🏼 | . ",
     "url": "http://localhost:4000/syllabus/#table-of-contents",
     "relUrl": "/syllabus/#table-of-contents"
-  },"9": {
+  },"4": {
     "doc": "Syllabus",
     "title": "Course Description 🍎",
     "content": "While the terms “data analysis” and “data science” were only coined in the late 1900s, the foundations of data science were laid centuries, even millenia, ago. In this course, students will study the origins of some of the key ideas in the field. Students will learn more about early contributors – from Newton to Galton to Playfair to Lovelace – and their motivations. In doing so, students develop an appreciation for methods that are now ubiquitous in the field of data science. We will only assume that students are taking DSC 10, and are familiar with basic derivatives and integrals (though this is not a firm requirement). Aside from that, we will make no assumptions regarding your background, and will introduce technical concepts at an introductory level when necessary. ",
     "url": "http://localhost:4000/syllabus/#course-description-",
     "relUrl": "/syllabus/#course-description-"
-  },"10": {
+  },"5": {
     "doc": "Syllabus",
     "title": "Logistics 👨‍🏫",
     "content": "Class Meetings . This course will meet once a week on Mondays. The official schedule states that this course is from 6-8:50PM on Mondays, however we will not use the full timeslot for lecture. Instead, we will discuss the material from 6-7:30PM, and use the remaining time for office hours, where students can ask questions about the reading or homework. For at least the first two weeks of the quarter, this course will meet remotely via Zoom (the link can be found on the course homepage). Once campus resumes in-person instruction, class will be held in-person in Center Hall 218 📍. Once the class moves in-person, remote attendance will remain an option. Lectures will always be recorded and posted afterwards. Readings . There is no “textbook” for this course. We will link readings (and videos) from a variety of sources in the webpage for a given lecture. Students are expected to complete all of the readings provided in a given week; much of the insight in this class will come from reading (and subsequently, discussing). Homeworks . Weekly homeworks in this course are designed to facilitate engagement with the material. They will consist of a mix of reading reflection problems and technical problems, and will align closely with the readings. Homeworks can be found at the bottom of the corresponding lecture page, and will typically be due on Sundays at 11:59PM to Gradescope. ",
     "url": "http://localhost:4000/syllabus/#logistics-",
     "relUrl": "/syllabus/#logistics-"
-  },"11": {
+  },"6": {
     "doc": "Syllabus",
     "title": "Technology 💻",
     "content": "In addition to the course website, there are two other sites you’ll need to access regularly; email the instructor if you haven’t been added to them. | Campuswire: for discussion of lecture content and homework problems. | Gradescope: for submitting homeworks. | . We will not be using Canvas at all. ",
     "url": "http://localhost:4000/syllabus/#technology-",
     "relUrl": "/syllabus/#technology-"
-  },"12": {
+  },"7": {
     "doc": "Syllabus",
     "title": "Grading 🧪",
     "content": "This course is offered for 2 units, and is graded P/NP. In order to earn a P, you must: . | Attend and participate in at least 7/8 class sessions. (Let the instructor know in advance if you can’t make a particular class.) | Complete at least 7/8 homework assignments satisfactorily. | . In the event you aren’t able to meet these requirements, there may be a “make-up” assignment, but you should not rely on it. ",
     "url": "http://localhost:4000/syllabus/#grading-",
     "relUrl": "/syllabus/#grading-"
-  },"13": {
+  },"8": {
     "doc": "Syllabus",
     "title": "Acknowledgements 🙏🏼",
     "content": "Many readings and topics are borrowed from Rohan Alexander’s History of Statistics and Data Sciences course at the University of Toronto. ",
     "url": "http://localhost:4000/syllabus/#acknowledgements-",
     "relUrl": "/syllabus/#acknowledgements-"
-  },"14": {
+  },"9": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "http://localhost:4000/syllabus/",
     "relUrl": "/syllabus/"
+  },"10": {
+    "doc": "Week 1 – Introduction, Calculus",
+    "title": "Week 1 – Introduction, Calculus",
+    "content": "Welcome to the first lecture and week of DSC 90 this quarter! Each week of DSC 90 will have a webpage, like this one, that contains links to lecture slides, recordings, and required readings, and also contains that week’s homework assignment. Note: this page is still under construction. Check back after class on Monday for a finalized version. ",
+    "url": "http://localhost:4000/resources/weeks/week01/#week-1--introduction-calculus",
+    "relUrl": "/resources/weeks/week01/#week-1--introduction-calculus"
+  },"11": {
+    "doc": "Week 1 – Introduction, Calculus",
+    "title": "Lecture (January 3rd) 👨‍🏫",
+    "content": ". | blank slides | annotated slides (after lecture) | code (DataHub) | recording (after lecture) | . ",
+    "url": "http://localhost:4000/resources/weeks/week01/#lecture-january-3rd-",
+    "relUrl": "/resources/weeks/week01/#lecture-january-3rd-"
+  },"12": {
+    "doc": "Week 1 – Introduction, Calculus",
+    "title": "Readings 📖",
+    "content": "Required: . | Donoho, 50 years of Data Science, Pages 745-749 | Neumann, History of Pi, Ch. 1 | Britannica, Pythagoreanism (stop at “History of Pythagoreanism”) | Wikipedia, Quadrature of the Parabola | YouTube: The History of Calculus - A Short Documentary | . Optional: . | Pythagorean tuning and Pythagorean intervals: interesting if you have a background in music | YouTube: Euclid’s Elements Book 1: Proposition 47, The Pythagorean Theorem: if you’d like to see Euclid’s proof of the Pythagorean theorem | YouTube: What is the Archimedes’ Principle? Memorize: recommended if you’re unfamiliar with Archimedes’ principle | YouTube: How to Calculate Pi, Archimedes’ Method: good video if you’d like another look at the \\(\\pi\\) calculations we did in class | YouTube: Visual Proof: 1/4 + 1/16 + 1/64 + … - Sum of Infinite Series: if you’d like another explanation of the sum of geometric series calculation from class | . ",
+    "url": "http://localhost:4000/resources/weeks/week01/#readings-",
+    "relUrl": "/resources/weeks/week01/#readings-"
+  },"13": {
+    "doc": "Week 1 – Introduction, Calculus",
+    "title": "Homework 1 (due Sunday, January 10th at 11:59PM) 📝",
+    "content": "Welcome to your first DSC 90 homework! Homeworks in DSC 90 are designed to have you engage with the week’s content. They will rely on you having completed the readings. Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. Remember to use Campuswire if you need guidance! . Question 1 . For both subparts, we’re expecting 3-4 sentences. (a) According to Donoho, in “The Future of Data Analysis”, John Tukey stated that the science of data analysis is being shaped by four factors. In your own words, what are those four factors? . (b) Based on your current understanding, describe how the field of data science is different than the field of statistics. Question 2 . In class, we looked at a visual proof of the fact that . \\[1 + \\frac{1}{4} + \\frac{1}{4^2} + \\frac{1}{4^3} + ... = \\frac{4}{3}\\] Let’s try and work through a similar problem. Namely, we’ll try and identify the value of the infinite sum . \\[1 + \\frac{1}{9} + \\frac{1}{9^2} + \\frac{1}{9^3} + ...\\] (a) What’s your best guess as to what the value is? Explain your answer. (If you’re familiar with the sum of an infinite geometric series, \\(S = \\frac{a}{1-r}\\), feel free to use it.) . (b) Make an argument similar to the one in class to justify your answer in part (a). This should involve some drawing – make sure to include your drawings in your PDF submission. (If you’re stuck, watch this video). (c) Another way of writing this infinite series is \\(\\sum_{i = 0}^\\infty \\frac{1}{9^i}\\). Why do you think we decided to look at this series, as opposed to \\(\\sum_{i = 0}^\\infty \\frac{1}{8^i}\\) or \\(\\sum_{i = 0}^\\infty \\frac{1}{10^i}\\)? . Question 3 . Below in blue is the parabola \\(y = x^2\\), and in red is the line \\(y = 2x + 8\\). (a) Without using integration, determine the area between the given line and parabola. This will involve a few steps. First, you’ll need to find the third point on the triangle that Archimedes specified in Quadrature of the Parabola. Some guiding questions: . | What is the slope of the red line? | What is the slope of the tangent line to the parabola at any given point on the parabola? (What is the derivative of the parabola?) | At what point on the parabola is the slope of the tangent line equal to the slope of the red line? | . Once you’ve identified the third point, you can use this online calculator to find the area of that triangle (unless you’d rather do it yourself for practice). Then, you should be able to use a result from class. Show all of your steps, and remember to ask for help if you need it. (b) Only if you’re familiar with integration, find the area between the given line and parabola using integration, and show that your answer is the same as your answer in part (a). ",
+    "url": "http://localhost:4000/resources/weeks/week01/#homework-1-due-sunday-january-10th-at-1159pm-",
+    "relUrl": "/resources/weeks/week01/#homework-1-due-sunday-january-10th-at-1159pm-"
+  },"14": {
+    "doc": "Week 1 – Introduction, Calculus",
+    "title": "Week 1 – Introduction, Calculus",
+    "content": " ",
+    "url": "http://localhost:4000/resources/weeks/week01/",
+    "relUrl": "/resources/weeks/week01/"
   }
 }
