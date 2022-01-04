@@ -34,7 +34,6 @@ Optional:
 - [Pythagorean tuning](https://www.youtube.com/watch?v=feeB8ci38jE) and [Pythagorean intervals](https://www.phys.uconn.edu/~gibson/Notes/Section3_2/Sec3_2.htm): interesting if you have a background in music
 - [YouTube: Euclid's Elements Book 1: Proposition 47, The Pythagorean Theorem](https://www.youtube.com/watch?v=6Btw3xct24Q): if you'd like to see Euclid's proof of the Pythagorean theorem
 - [YouTube: What is the Archimedes' Principle? Memorize](https://www.youtube.com/watch?v=05WkCPORlj4): recommended if you're unfamiliar with Archimedes' principle
-- [YouTube: Visual Proof: 1/4 + 1/16 + 1/64 + ... - Sum of Infinite Series](https://www.youtube.com/watch?v=iTdpl-FZD0o): if you'd like another explanation of the sum of geometric series calculation from class
 
 ---
 
