@@ -109,7 +109,7 @@ You've now estimated the value of $$\pi$$ using the areas of inscribed polygons 
 
 ### Question 3
 
-**After** finishing Questions 1 and 2, but before submitting the homework, please fill out [this **anonymous** survey](https://docs.google.com/forms/d/1xpzNG0YuoRUvh92-jSSn-sOSBMhaTalO6T3zpFGZk7M/edit). Once you submit the survey, it'll show you a secret word. Write that secret word in your PDF as the answer to Question 3. Thanks!
+**After** finishing Questions 1 and 2, but before submitting the homework, please fill out [this **anonymous** survey](https://docs.google.com/forms/d/1xpzNG0YuoRUvh92-jSSn-sOSBMhaTalO6T3zpFGZk7M/). Once you submit the survey, it'll show you a secret word. Write that secret word in your PDF as the answer to Question 3. Thanks!
 
 ### (Optional) Question 4
 
