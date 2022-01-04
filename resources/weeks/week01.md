@@ -47,23 +47,17 @@ Submit your answers as a PDF to Gradescope by the due date for full credit. We e
 
 <br>
 
-The homework will be finalized by noon on Tuesday.
-
-<!-- ### Question 1
+### Question 1
 
 For both subparts, we're expecting 3-4 sentences.
 
 (a) According to Donoho, in "The Future of Data Analysis", John Tukey stated that the science of data analysis is being shaped by four factors. In your own words, what are those four factors? 
 
-(b) Based on your current understanding, describe how the field of data science is different than the field of statistics. -->
-
-<!-- ### Question 2
-
-Watch this video on YouTube: [How to Calculate Pi, Archimedes' Method](https://www.youtube.com/watch?v=DLZMZ-CT7YU).
-
-This video describes a process similar to the one we covered in class, but with a few key differences. What are the differences between this approach and the approach from class? Do you think this approach is historically accurate (i.e. could this have been the approach Archimedes used)?
+(b) Based on your current understanding, describe how the field of data science is different than the field of statistics.
 
 ### Question 2
+
+**Disclaimer:** This question looks long, but the amount of work you'll have to do is relatively minimal.
 
 Archimedes' approximation for the value of $$\pi$$ used the fact that the ratio between the circumference of a circle and the diameter of that circle is constant. 
 
@@ -93,7 +87,7 @@ In the image above, the blue polygon is a dodecagon, a regular polygon with 12 s
 
 To find the area of triangle OAB, we need to multiply its base (which we know to be 1) by its height, which we've denoted as $$h$$ in the diagram above, and divide the result by 2. Our problem now lies in determining what $$h$$ is, in terms of $$s$$. (Remember, for any value of $$n$$, we know $$s$$.)
 
-(a) Use the Pythagorean Theorem twice to find two equations that involve some or all of $$h$$, $$c$$, and $$s$$, and show that
+(a) Use the above diagram and the Pythagorean Theorem to find two equations that involve some or all of $$h$$, $$c$$, and $$s$$, and show that
 
 $$h = \sqrt{1 - \left( 1 - \frac{s^2}{2} \right)^2}$$
 
@@ -109,10 +103,18 @@ Show your work.
 
 3. Now, in the cell containing the `for`-loop, add a line that computes the value of `h` for the current `s` (before the print statement), and replace `pi_estimate(s, n)` with `pi_estimate_area(h, n)`. Run the cell.
 
-In your PDF writeup, provide a screenshot of all of the code you wrote and the output of the new `for`-loop.
+You've now estimated the value of $$\pi$$ using the areas of inscribed polygons rather than the perimeters of inscribed polygons. Nice work! In your PDF writeup, provide a screenshot of all of the code you wrote and the output of the new `for`-loop.
 
-(c) Which method converges to $$\pi$$ quicker – the method based on perimeters, or the method based on areas?
+(c) Which method seems like it converges to $$\pi$$ quicker – the method based on perimeters, or the method based on areas?
 
 ### Question 3
 
-Please fill out [this **anonymous** survey](https://docs.google.com/forms/d/1xpzNG0YuoRUvh92-jSSn-sOSBMhaTalO6T3zpFGZk7M/edit). Once you submit the survey, it'll show you a secret word. Write that secret word in your PDF as the answer to Question 3. Thanks! -->
+**After** finishing Questions 1 and 2, but before submitting the homework, please fill out [this **anonymous** survey](https://docs.google.com/forms/d/1xpzNG0YuoRUvh92-jSSn-sOSBMhaTalO6T3zpFGZk7M/edit). Once you submit the survey, it'll show you a secret word. Write that secret word in your PDF as the answer to Question 3. Thanks!
+
+### (Optional) Question 4
+
+Watch this video on YouTube: [How to Calculate Pi, Archimedes' Method](https://www.youtube.com/watch?v=DLZMZ-CT7YU).
+
+This video describes a process similar to the one we covered in class, but with a few key differences. What are the differences between this approach and the approach from class? Do you think this approach is historically accurate (i.e. could this have been the approach Archimedes used)?
+
+If you answer this question, assign it to Question 3 on Gradescope when matching pages.
