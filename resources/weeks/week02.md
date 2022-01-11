@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 1 – Introduction, Calculus
+title: Week 2 – Calculus, Aggregation
 nav_exclude: true
 ---
 
@@ -13,9 +13,8 @@ nav_exclude: true
 
 ## Lecture (January 10th) 👨‍🏫
 
-- [blank slides 😶](#)
+- [blank slides 😶](../../slides/lec02.pdf)
 - [annotated slides 😊](#)
-- [code 💻](#)
 - [recording 🎥](#)
 
 ---
@@ -24,50 +23,26 @@ nav_exclude: true
 
 Required:
 - Wikipedia, [Quadrature of the Parabola](https://en.wikipedia.org/wiki/Quadrature_of_the_Parabola)
+- [YouTube: Visual Proof: 1/4 + 1/16 + 1/64 + ... - Sum of Infinite Series](https://www.youtube.com/watch?v=iTdpl-FZD0o)
+- [YouTube: Intro to Data Science: Historical Context](https://www.youtube.com/watch?v=aECk8s0FS7Q)
+- Staples, [Fermat's technique of finding areas under curves](https://files.eric.ed.gov/fulltext/EJ720046.pdf)
 - O'Connor and Robertson, [A history of the calculus](https://mathshistory.st-andrews.ac.uk/HistTopics/The_rise_of_calculus/)
+- Raper, [The shock of the mean](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2017.01087.x)
+
 
 Optional:
-- [YouTube: Visual Proof: 1/4 + 1/16 + 1/64 + ... - Sum of Infinite Series](https://www.youtube.com/watch?v=iTdpl-FZD0o): if you'd like another explanation of the sum of geometric series calculation from class
+- Monks, [Fermat's Method for Finding Maxima and Minima](https://digitalcommons.ursinus.edu/cgi/viewcontent.cgi?article=1011&context=triumphs_calculus): recommended supplement to our treatment of Fermat's adequality
+- Williams, [Beginnings of the Calculus](https://mathed.byu.edu/~williams/Classes/300F2011/PDFs/PPTs/Beginnings%20of%20the%20Calculus.pdf): highly recommended lecture slides if you're interested in learning more about the development of calculus during the Scientific Revolution
+- Allain, [Planetary Motion Smackdown](https://www.wired.com/story/planetary-motion-smackdown/): shows how Kepler's laws and Newton's laws are related
+- Levenson, [The Truth About Isaac Newton's Productive Plague](https://www.newyorker.com/culture/cultural-comment/the-truth-about-isaac-newtons-productive-plague): interesting perspective, but not all that related to course material
+- Keats, [Radical insights from The Seven Pillars of Statistical Wisdom](https://www.newscientist.com/article/mg23030740-900-radical-insights-from-the-seven-pillars-of-statistical-wisdom/): similar to "The shock of the mean", but more brief
 
 ---
 
-## Homework 2 (due Sunday, January 16th at 11:59PM) 📝
+## Homework 2 (due Friday, January 21st at 11:59PM) 📝
 
 Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. **Remember to use Campuswire if you need guidance!**
 
 <br>
 
-<!-- ### Question 2
-
-In class, we looked at a visual proof of the fact that
-
-$$1 + \frac{1}{4} + \frac{1}{4^2} + \frac{1}{4^3} + ... = \frac{4}{3}$$
-
-Let's try and work through a similar problem. Namely, we'll try and identify the value of the infinite sum
-
-$$1 + \frac{1}{9} + \frac{1}{9^2} + \frac{1}{9^3} + ...$$
-
-(a) What's your best guess as to what the value is? Explain your answer. (If you're familiar with the sum of an infinite geometric series, $$S = \frac{a}{1-r}$$, feel free to use it.)
-
-(b) Make an argument similar to the one in class to justify your answer in part (a). This should involve some drawing – make sure to include your drawings in your PDF submission. (If you're stuck, watch [this video](https://www.youtube.com/watch?v=iTdpl-FZD0o)).
-
-(c) Another way of writing this infinite series is $$\sum_{i = 0}^\infty \frac{1}{9^i}$$. Why do you think we decided to look at this series, as opposed to $$\sum_{i = 0}^\infty \frac{1}{8^i}$$ or $$\sum_{i = 0}^\infty \frac{1}{10^i}$$?
-
-### Question 3
-
-Below in <span style="color:blue;">blue</span> is the parabola $$y = x^2$$, and in <span style="color:red;">red</span> is the line $$y = 2x + 8$$.
-
-<div align=center>
-<img src='../../images/hw02-parabola.png' width=350>
-</div>
-
-(a) **Without** using integration, determine the area between the given line and parabola.
-
-This will involve a few steps. First, you'll need to find the third point on the triangle that Archimedes specified in _Quadrature of the Parabola_. Some guiding questions: 
-- What is the slope of the red line? 
-- What is the slope of the tangent line to the parabola at any given point on the parabola? (What is the derivative of the parabola?) 
-- At what point on the parabola is the slope of the tangent line equal to the slope of the red line?
-
-Once you've identified the third point, you can use [this online calculator](https://keisan.casio.com/exec/system/1223520411) to find the area of that triangle (unless you'd rather do it yourself for practice). Then, you should be able to use a result from class. Show all of your steps, and remember to ask for help if you need it.
-
-(b) Only if you're familiar with integration, find the area between the given line and parabola using integration, and show that your answer is the same as your answer in part (a). -->
+Problems will be finalized by Tuesday.

@@ -22,9 +22,9 @@ Click on a link below to go to the page for that week.
 | # | Date | Topics | Assignment |
 | --- | --- | --- | --- |
 | 1 | 1/3 | **[Introduction, Calculus](../resources/weeks/week01)**  | HW 1 (due 1/9) |
-| 2 | 1/10 | **Calculus, Aggregation, and Least Squares** | |
+| 2 | 1/10 | **[Calculus, Aggregation](../resources/weeks/week02)** | HW 2 (due 1/21) |
 | | 1/17 | N/A (MLK Day) | |
-| 3 | 1/24 | **Regression and Correlation** | |
+| 3 | 1/24 | **Least Squares and Regression** | |
 | 4 | 1/31 | **Randomess and Probability** | |
 | 5 | 2/7 | **Visualization and EDA** | |
 | 6 | 2/14 | **Computation** | |
@@ -42,7 +42,7 @@ In the first class session, we'll set the scene and expectations for the course.
 
 We've come to take for granted the idea of an "average", but it was not always so prevalent.
 
-- [Radical insights from _The Seven Pillars of Statistical Wisdom_](https://www.newscientist.com/article/mg23030740-900-radical-insights-from-the-seven-pillars-of-statistical-wisdom/)
+- [Radical insights from _The Seven Pillars of Statistical Wisdom_](/)
 - [Stigler, Stephen M. The Seven Pillars of Statistical Wisdom. (Chapter 1)](https://search-library.ucsd.edu/discovery/fulldisplay?docid=alma991023006319704876&context=L&vid=01UCS_SDI:UCSD&lang=en&search_scope=ArticlesBooksEtc&adaptor=Local%20Search%20Engine&tab=ArticleBooksEtc&query=any,contains,seven%20pillars%20of%20statistical%20wisdom&offset=0)
 - [Stigler, Stephen M. Gauss and the Invention of Least Squares](https://projecteuclid.org/journals/annals-of-statistics/volume-9/issue-3/Gauss-and-the-Invention-of-Least-Squares/10.1214/aos/1176345451.full)
 
