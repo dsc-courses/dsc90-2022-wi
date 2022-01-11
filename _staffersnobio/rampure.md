@@ -5,5 +5,6 @@ pronouns: he/him
 email: rampure@ucsd.edu
 website: https://rampure.org
 photo: https://rampure.org/assets/me-2021.png
-lecture: Mondays, 6-7:30PM (office hours until 8:50PM)
+lecture: Mondays, 6-7:30PM
+oh: Mondays, 7:30-8:50PM; Fridays, 3:30-4:30PM
 ---
