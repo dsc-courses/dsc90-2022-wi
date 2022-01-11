@@ -15,7 +15,7 @@ nav_exclude: true
 
 - [blank slides 😶](../../slides/lec02.pdf)
 - [annotated slides 😊](../../slides/lec02-annotated.pdf)
-- [recording 🎥](https://youtu.be/j1sQnIhM6pg)
+- [recording 🎥](https://youtu.be/nNKV-deBHZ4)
 
 ---
 
