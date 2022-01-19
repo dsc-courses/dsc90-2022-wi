@@ -37,7 +37,7 @@ Optional:
 
 ---
 
-## Homework 1 (due Sunday, January 9th at 11:59PM) 📝
+## Homework 1 (due Sunday, January 9th at 11:59PM) ([solutions](https://campuswire.com/c/GCAB4734F/feed/9)) 📝
 
 **Welcome to your first DSC 90 homework!** Homeworks in DSC 90 are designed to have you engage with the week's content. They will rely on you having completed the readings.
 
