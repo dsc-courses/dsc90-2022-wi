@@ -16,7 +16,7 @@ nav_exclude: true
 - [blank slides 😶](../../slides/lec03.pdf)
 - [annotated slides 😊](../../slides/lec03-annotated.pdf)
 - [code 💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-wi&subPath=lecture/lec03/lec03.ipynb)
-- recording 🎥
+- [recording 🎥](https://youtu.be/tOknmjne2VA)
 
 ---
 
@@ -51,8 +51,8 @@ Submit your answers as a PDF to Gradescope by the due date for full credit. We e
 <br>
 
 Questions will be finalized by Tuesday.
-
+<!-- 
 ### Question 1
 
-Some elliptical model of planetary data, jupyter notebook of fitting it with least squares, cool animation?
+Some elliptical model of planetary data, jupyter notebook of fitting it with least squares, cool animation? -->
 
