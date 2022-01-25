@@ -14,7 +14,7 @@ nav_exclude: true
 ## Lecture (January 24th) 👨‍🏫
 
 - [blank slides 😶](../../slides/lec03.pdf)
-- annotated slides 😊
+- [annotated slides 😊](../../slides/lec03-annotated.pdf)
 - [code 💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-wi&subPath=lecture/lec03/lec03.ipynb)
 - recording 🎥
 
