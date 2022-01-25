@@ -24,7 +24,7 @@ Click on a link below to go to the page for that week.
 | 1 | 1/3 | **[Introduction, Calculus](../resources/weeks/week01)**  | HW 1 (due 1/9) |
 | 2 | 1/10 | **[Calculus, Aggregation](../resources/weeks/week02)** | HW 2 (due 1/21) |
 | | 1/17 | N/A (MLK Day) | |
-| 3 | 1/24 | **Least Squares and Regression** | |
+| 3 | 1/24 | **[Aggregation and Least Squares](../resources/weeks/week03)** | |
 | 4 | 1/31 | **Randomess and Probability** | |
 | 5 | 2/7 | **Visualization and EDA** | |
 | 6 | 2/14 | **Computation** | |
