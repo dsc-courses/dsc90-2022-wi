@@ -39,7 +39,7 @@ Optional:
 
 ---
 
-## Homework 2 (due Friday, January 21st at 11:59PM) 📝
+## Homework 2 (due Friday, January 21st at 11:59PM) ([solutions](https://campuswire.com/c/GCAB4734F/feed/13)) 📝
 
 Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. **Remember to use Campuswire if you need guidance!**
 
