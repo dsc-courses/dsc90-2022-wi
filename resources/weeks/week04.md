@@ -20,26 +20,18 @@ nav_exclude: true
 
 ## Readings 📖
 
-Readings will be finalized by Tuesday.
-
-<!-- - Harford, [The strange power of the idea of "average"](https://timharford.com/2019/08/the-strange-power-of-the-idea-of-average/) -->
-<!-- - Rose, [How the Idea of a 'Normal' Person Got Invented](https://www.theatlantic.com/business/archive/2016/02/the-invention-of-the-normal-person/463365/)
-- Denis, [The Origins of Correlation and Regression: Francis Galton or Auguste Bravais and the Error Theorists?](https://www.york.ac.uk/depts/maths/histstat/bravais.htm)
+- Rose, [How the Idea of a 'Normal' Person Got Invented](https://www.theatlantic.com/business/archive/2016/02/the-invention-of-the-normal-person/463365/)
 - Clayton, [How Eugenics Shaped Statistics](https://nautil.us/how-eugenics-shaped-statistics-9365/)
 - Sonabend, [Statistics, Eugenics, and Me](https://towardsdatascience.com/statistics-eugenics-and-me-29eaf43efac7)
-
-https://higherlogicdownload.s3.amazonaws.com/AMSTAT/1484431b-3202-461e-b7e6-ebce10ca8bcd/UploadedImages/Classroom_Activities/HS_6_Correlation_Francis_GALTON.pdf required
-
-https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2011.00509.x also good
-
-https://www.historyofdatascience.com/karl-pearson-creator-of-correlation/
+- Rosenfeld, [The invention of correlation.](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/1484431b-3202-461e-b7e6-ebce10ca8bcd/UploadedImages/Classroom_Activities/HS_6_Correlation_Francis_GALTON.pdf)
 
 Optional:
-- Eknoyan, [Adolphe Quetelet (1796-1874) – the average man and indices of obesity](https://watermark.silverchair.com/gfm517.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAArwwggK4BgkqhkiG9w0BBwagggKpMIICpQIBADCCAp4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUK7VNFEa__QjBhGAAgEQgIICbz8R1uO0XH-B3v_Pvi2iC75X9Mgzvat7gt8VAMVQ1Jc8EHSbuoMn9SGxGYH96qEAPapOdYFK16KyEMI9DnoyXzTN6MCiMaloCrDPtmmbxvFQt4OhXQqy4TO5YMLlBRnYw2MY0Z3iD2GAza3g9kpNV8JKzOHiuK31zadxpKPcmWnCiEmrPYYOFZRtw1aa_LyZLCwGEIkDsdhn7Ujon-YQyYKEClft8HjPQ5ScROTU3BSlPo5SZYjRqsTDs67VHAtGOgbneWHxOE903uiHKK21qKPlmexzj81KoB1Ir487HgIkg5V5a_Cra2NV0irZ8NhLYLaZZe5HjbdjNN70ajqFz5caKEgrifbJT6Y-mAlpo-r8Re4R6Q0kAZ0LQktVFk1gaFRhbOdEN4EHdbwHgc6rVm4z1pphHMfiTbseo1iuDPPWOpBVj2m_N3jqx8dkBD-3D_PUi11Tj4nEuT57GxIinDmXok8muoiGwlpJdX6xV85g2gfpFxUd0HyuRpAhvGNpYGL0mflX9ABjSjWp1DUou3GMg6BITm976GufInNH1hJXIg64O5YtYvgzfeZOCBMS8tbq_Nq4EjvjUYEkLRHUxAX9pGtC5lZ4JyZy9o7s2QinYeONBskYQCXPzsFbkEzdLpYTs_h7BQL5LIW7186_kSfUbEkpeJfrUM7yzypzQwgdNC7wwY62unoezMcldlVPCSANA6HwOxsm9tlUea-UOtPz9lTX0a4kUWjltrgKeDoAoFErmX2f_KBlAWgDJOlRsbqo7waWR6xoL0cyCUL2O6yEXs_dmd5RdFFagv7xMkQ27yuVuorzNr9IO9psqbLs)
+- YouTube: [Least Squares as a Maximum Likelihood estimator](https://www.youtube.com/watch?v=_-Gnu498s3o) (highly recommended)
 - MathIsFun, [Quincrux Explained](https://www.mathsisfun.com/data/quincunx-explained.html)
 - Galton, [Kinship and Correlation](https://galton.org/essays/1890-1899/galton-1890-nareview-kinship-and-correlation.html)
-https://www.statistics.com/the-normal-share-of-paupers/
-- Rehmeyer, [Darwin: The reluctant mathematician](https://www.sciencenews.org/article/darwin-reluctant-mathematician) -->
+- Rehmeyer, [Darwin: The reluctant mathematician](https://www.sciencenews.org/article/darwin-reluctant-mathematician)
+- PSU, [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat415/lesson/1/1.2)
+- [The Normal Share of Paupers](https://www.statistics.com/the-normal-share-of-paupers/)
 
 ---
 
@@ -49,30 +41,39 @@ Submit your answers as a PDF to Gradescope by the due date for full credit. We e
 
 Homework 4 will be finalized by Tuesday.
 
-<!-- ### Question 0
+### Question 0
 
-The Data Science Student Representatives created a survey for you to voice your opinion about what you love in DSC 90, and how we can improve your class and the department!
+The Data Science Student Representatives created a survey for you to voice your opinion about what you love in DSC 90, and how we can improve the class and the department!
 
-Feel free to talk about the topics covered in this course, the quality of the lectures, homeworks, and readings, and anything else you feel is relevant and constructive.
+Feel free to talk about the topics covered in this course, the quality of the lectures, homeworks, and readings, and anything else you feel is relevant and constructive. As you know, this is a brand-new class, and we'd really appreciate any constructive feedback.
 
 Please [click here](https://docs.google.com/forms/d/e/1FAIpQLSdUW_3PHsp_6XD0kKQMwU9Ck__aAgQDNGW8eBO1tDVce95ZCA/viewform) to complete the survey. If you aren't able to access it, make sure you're logged into your UCSD Google account.
 
 ### Question 1
 
-Read this: https://galton.org/essays/1880-1889/galton-1888-co-relations-rsoc.pdf
-
-Defines probable error to be 1/2 (Q3 - Q1). And says now half of values are within +- 1.
-
-test this out in a notebook, then prove it algebraically.
+Karl Pearson, one of Galton's disciples and collaborators, created a journal that is today known as the Annals of Human Genetics.
+- What was the journal originally known as?
+- What was the subtitle of the journal? What is the significance of that subtitle?
+- Why was the name of the journal eventually changed?
 
 ### Question 2
 
-Method of deciles implementation question.
+This question is contained with a Jupyter Notebook, which is [linked here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-wi&subPath=homework/hw04/hw04-student.ipynb). All of your answers (including screenshots of your code) should end up in your submitted PDF; you will not be submitting this notebook anywhere.
 
 ### Question 3
 
-binomial maximum likelihood question
+This question introduces a bit of background that will be helpful in the coming week.
 
-### Question 4
+Recall, in lecture we considered an example where we flipped a coin 10 times and saw the sequence HTTHTTTTTH. For an arbitrary bias $$p$$, the probability of that sequence is $$p^3 (1-p)^7$$. However, $$p^3 (1-p)^7$$ is **not** the probability of seeing 3 heads and 7 tails. To compute that, we'd need to consider all of the different orders in which we could see 3 heads and 7 tails – for example, HHHTTTTTTT, HTHTHTTTTT, etc. Each of these orderings has the same probability, $$p^3 (1-p)^7$$.
 
-The journal used to be called Annals of Eugenics, what is it now called? And other reading problems. -->
+So, $$P(\text{3 heads, 7 tails}) = (\text{# of ways of flipping 3 heads and 7 tails}) \cdot p^3 (1-p)^7$$. As you will learn in DSC 40A (if you haven't already), the number of ways of flipping 3 heads and 7 tails is $${10 \choose 3}$$, pronounced "10 choose 3". If you're not familiar with this notation, watch [this video](https://www.youtube.com/watch?v=4j2mFGkvwWE) and [this video](https://www.youtube.com/watch?v=lR6FeO5Pgss).
+
+The general probability distribution we've discussed here is called the **binomial distribution**, which determines the probability of seeing $$k$$ successes in $$n$$ trials of an experiment in which each trial succeeds with probability $$p$$, independent of all other trials. It says that the probability of $$k$$ successes is
+
+$$P(\text{$k$ successes}) = {n \choose k} p^k (1-p)^{n-k}$$
+
+(Previously, $$k = 3$$, $$n = 10$$, and $$p$$ was unknown.)
+
+To make sure you're comfortable with the idea, answer the following question:
+
+Each time I call my grandma, she answers the phone with probability 0.6. I call her 5 times. What is more likely – her answering twice, or her answering four times? Find the probability of both events. Write out both answers symbolically, and then use a calculator to evaluate them as decimals. If you'd like to use Python to evaluate the result as a decimal, the function `comb(n, k)` in the Python package `scipy.special` calculates $${n \choose k}$$.
