@@ -13,9 +13,8 @@ nav_exclude: true
 ## Lecture (January 24th) 👨‍🏫
 
 - [blank slides 😶](../../slides/lec04.pdf)
-- annotated slides 😊
-- code 💻]
-- recording 🎥
+- [annotated slides 😊](../../slides/lec04-annotated.pdf)
+- [recording 🎥](https://youtu.be/uwXWAuwER3c)
 
 ---
 
