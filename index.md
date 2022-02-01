@@ -25,12 +25,12 @@ Click on a link below to go to the page for that week.
 | 2 | 1/10 | **[Calculus, Aggregation](../resources/weeks/week02)** | HW 2 (due 1/21) |
 | | 1/17 | N/A (MLK Day) | |
 | 3 | 1/24 | **[Aggregation and Least Squares](../resources/weeks/week03)** | HW 3 (due 1/30) |
-| 4 | 1/31 | **Randomess and Probability** | |
-| 5 | 2/7 | **Visualization and EDA** | |
-| 6 | 2/14 | **Computation** | |
+| 4 | 1/31 | **[Least Squares, Regression, and Correlation](../resources/weeks/week04)** | HW 4 (due 2/6) |
+| 5 | 2/7 | **Randomness and Probability** | |
+| 6 | 2/14 | **Data Visualization** | |
 | | 2/21 | N/A (Presidents' Day) | |
-| 7 | 2/28 | **Machine Learning** | |
-| 8 | 3/7 | **Data Science as a field**| |
+| 7 | 2/28 | **Computation** | |
+| 8 | 3/7 | **Machine Learning; Data Science as a Field**| |
 
 
 <!-- 
