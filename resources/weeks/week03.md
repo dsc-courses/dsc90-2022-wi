@@ -32,7 +32,7 @@ Required:
 
 ---
 
-## Homework 3 (due Sunday, January 30th at 11:59PM) 📝
+## Homework 3 (due Sunday, January 30th at 11:59PM) ([solutions](https://campuswire.com/c/GCAB4734F/feed/19)) 📝
 
 Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. **Remember to use Campuswire if you need guidance!**
 
