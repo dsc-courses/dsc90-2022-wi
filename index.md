@@ -26,7 +26,7 @@ Click on a link below to go to the page for that week.
 | | 1/17 | N/A (MLK Day) | |
 | 3 | 1/24 | **[Aggregation and Least Squares](../resources/weeks/week03)** | HW 3 (due 1/30) |
 | 4 | 1/31 | **[Least Squares, Regression, and Correlation](../resources/weeks/week04)** | HW 4 (due 2/6) |
-| 5 | 2/7 | **Randomness and Probability** | |
+| 5 | 2/7 | **[Probability](../resources/weeks/week05)** | HW 5 (due 2/13) |
 | 6 | 2/14 | **Data Visualization** | |
 | | 2/21 | N/A (Presidents' Day) | |
 | 7 | 2/28 | **Computation** | |

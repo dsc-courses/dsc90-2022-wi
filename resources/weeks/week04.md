@@ -10,7 +10,7 @@ nav_exclude: true
 
 ---
 
-## Lecture (January 24th) 👨‍🏫
+## Lecture (January 31st) 👨‍🏫
 
 - [blank slides 😶](../../slides/lec04.pdf)
 - [annotated slides 😊](../../slides/lec04-annotated.pdf)
