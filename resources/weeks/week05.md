@@ -13,9 +13,9 @@ nav_exclude: true
 ## Lecture (February 7th) 👨‍🏫
 
 - [blank slides 😶](../../slides/lec05.pdf)
-- annotated slides 😊
+- [annotated slides 😊](../../slides/lec05-annotated.pdf)
 - [code 💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-wi&subPath=lecture/lec05/lec05.ipynb)
-- recording 🎥
+- [recording 🎥](https://youtu.be/Dvx47kcwnaI)
 
 ---
 
@@ -27,6 +27,7 @@ Readings will be finalized by Tuesday.
 - [Fermat and Pascal on Probability](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf): skim, but read
 - Wikipedia, [Lady tasting tea](https://en.wikipedia.org/wiki/Lady_tasting_tea)
 - O'Connor and Robertson, [Jacob (Jacques) Bernoulli](https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Jacob/)
+- [Derivation of Gaussian Probability Distribution: A New Approach](https://www.scirp.org/journal/paperinformation.aspx?paperid=100627)
 
 Optional:
 - Sheynin, [Theory of Probability. A Historical Essay](https://arxiv.org/pdf/1802.09966.pdf): for more details
@@ -44,19 +45,20 @@ Optional:
 Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. **Remember to use Campuswire if you need guidance!**
 
 Homework 5 will be finalized by Tuesday.
+<!-- 
+### Question 1
 
-<!-- ### Question 1
+In class, we focused on developments by Gauss, Fermat, Pascal, and Fisher. However, there were several other contributors to the field of probability.
 
-Something about Jakob Bernoulli, the law of large numbers, and DSC 10
+Three in particular were de Moivre, Laplace, and Bernoulli.
+
+Bernoulli, the binomial distribution, and a normal approximation.
 
 ### Question 2
 
-something about the trial of the pyx?
+Let's consider the Problem of the Points again, but pretend that each action is not fair. How could we modify our work?
 
 ### Question 3
 
-Let's consider the Problem of the Points again, but pretend that each action is not fair. How could we modify our work?
-
-### Question 4
-
-Another early problem in probability was called the Gambler's Ruin. Describe it, show the numerical formula, ask to implement it, then simulate it. -->
+Another early problem in probability was called the Gambler's Ruin. Describe it, show the numerical formula, ask to implement it, then simulate it. '
+ -->
