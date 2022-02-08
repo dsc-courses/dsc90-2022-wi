@@ -45,6 +45,7 @@ Optional:
 Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. **Remember to use Campuswire if you need guidance!**
 
 Homework 5 will be finalized by Tuesday.
+
 <!-- 
 ### Question 1
 
