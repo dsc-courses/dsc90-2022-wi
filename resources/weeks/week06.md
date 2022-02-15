@@ -13,9 +13,8 @@ nav_exclude: true
 ## Lecture (February 14th) ❤️
 
 - [blank slides 😶](../../slides/lec06.pdf)
-- annotated slides 😊
 - [code 💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-wi&subPath=lecture/lec06/lec06.ipynb)
-- recording 🎥
+- [recording 🎥](https://youtu.be/SM1WQBgu0eI)
 
 ---
 
