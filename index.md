@@ -8,6 +8,8 @@ seo:
   name: Just the Class
 ---
 
+| ✅ <span style='color:green'><b>This course will be offered again in Spring 2022!</b></span> <br>In this course, we visit the origins of ideas that are central to data science, from calculus to probability to linear regression to visualization. If you take the course, not only will you gain a deeper appreciation for the methods of our field, but you'll also enhance your mathematical reasoning and programming skills while also gaining exposure to a few new tools (like GitHub Pages and `plotly`) along the way. <br> **Note that class meetings will be from 6-7:30PM**, not 6-8:50PM. |
+
 # {{ site.tagline }} 📚
 {: .mb-2 }
 {{ site.description }}
