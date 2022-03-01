@@ -31,7 +31,7 @@ Click on a link below to go to the page for that week.
 | 5 | 2/7 | **[Probability](../resources/weeks/week05)** | HW 5 (due 2/13) |
 | 6 | 2/14 | **[Visualization](../resources/weeks/week06)** | HW 6 (due 2/27) |
 | | 2/21 | N/A (Presidents' Day) | |
-| 7 | 2/28 | **Computation** | |
+| 7 | 2/28 | **[Computation](../resources/week/week07)** | HW 7 (due 3/6) |
 | 8 | 3/7 | **Machine Learning; Data Science as a Field**| |
 
 
