@@ -14,8 +14,7 @@ nav_exclude: true
 
 - [blank slides 😶](../../slides/lec07.pdf)
 - [annotated slides 😊](../../slides/lec07-annotated.pdf)
-- code 💻
-- recording 🎥
+- [recording 🎥](https://youtu.be/79WLNeJtWlw)
 
 ---
 
