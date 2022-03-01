@@ -13,7 +13,7 @@ nav_exclude: true
 ## Lecture (February 28th) ❤️
 
 - [blank slides 😶](../../slides/lec07.pdf)
-- annotated slides 😊
+- [annotated slides 😊](../../slides/lec07-annotated.pdf)
 - code 💻
 - recording 🎥
 
