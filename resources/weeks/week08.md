@@ -14,6 +14,7 @@ nav_exclude: true
 
 - [blank slides 😶](../../slides/lec08.pdf)
 - annotated slides 😊
+- [code 💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-wi&subPath=lecture/lec08)
 - recording 🎥
 
 ---
