@@ -40,4 +40,4 @@ Optional:
 
 Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. **Remember to use Campuswire if you need guidance!**
 
-Homework 8 will be finalized by Wednesday.
+The content of Homework 8 can be found in [this Jupyter Notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-wi&subPath=homework/hw08/hw08-student.ipynb). You will submit your work as a PDF to Gradescope; the notebook specifies what to include in your PDF.
