@@ -41,3 +41,11 @@ Optional:
 Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. **Remember to use Campuswire if you need guidance!**
 
 The content of Homework 8 can be found in [this Jupyter Notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-wi&subPath=homework/hw08/hw08-student.ipynb). You will submit your work as a PDF to Gradescope; the notebook specifies what to include in your PDF.
+
+### CAPEs + Additional Survey
+
+To get your feedback on how the course went, I'd appreciate it if you could fill out both:
+- [CAPEs](https://cape.ucsd.edu)
+- [The End of Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSdbFXsema0yHVGXEs9CEZuAlQF5rcaq7oRUQubzzFIzkvjfdg/viewform)
+
+Both are optional and anonymous (though you can leave your name on the End of Quarter survey if you'd like). Your feedback is much appreciated!
